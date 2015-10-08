@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//comment
 public class BabylonianAlgorithm {
 
 	public static void main(String[] args) {
